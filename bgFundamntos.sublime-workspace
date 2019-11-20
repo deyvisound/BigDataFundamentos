@@ -7,6 +7,33 @@
 	},
 	"buffers":
 	[
+		{
+			"file": "README.md",
+			"settings":
+			{
+				"buffer_size": 224,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "BigData",
+			"settings":
+			{
+				"buffer_size": 686,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "ApacheHadoop",
+			"settings":
+			{
+				"buffer_size": 750,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
 	],
 	"build_system": "",
 	"build_system_choices":
@@ -44,6 +71,7 @@
 	],
 	"file_history":
 	[
+		"/home/deyvison/Documents/projetos/data_science_academy/bigDataFundamentos/BigDataFundamentos/Introdução"
 	],
 	"find":
 	{
@@ -78,8 +106,94 @@
 	"groups":
 	[
 		{
+			"selected": 2,
 			"sheets":
 			[
+				{
+					"buffer": 0,
+					"file": "README.md",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 224,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								224,
+								224
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Markdown/Markdown.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "BigData",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 686,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								304,
+								304
+							]
+						],
+						"settings":
+						{
+							"auto_name": "",
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 218.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "ApacheHadoop",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 750,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								750,
+								750
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 204.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
 			]
 		}
 	],

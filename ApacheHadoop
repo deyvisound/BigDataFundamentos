@@ -1,0 +1,26 @@
+-> Definĩções
+
+- Software open source para armazenamento e processamento de dados em larga escala. 
+
+
+- Hadoop é um sistema de armazenamento compartilhado, distribuido e altamente confiável para processamento de grandes volumes. 
+
+-> Componentes base principais: 
+
+* HDFS(Sistema de arquivos distribuídos): Armazenamento distribuído
+* MapReduce(Modelo de programação para processamento de grandes volumes de dados): Computação distribuída
+
+-> Características 
+
+- Baixo Custo (*Nescessita de profissionais bem qualifcados para configurações)
+- Escalável
+- Tolerante a falhas
+- Flexível(diversas arquiteturas)
+
+
+-> Tipos de Dados: 
+
+Estruturados: Banco de dados
+Semi-Estruturados: XML
+Não Estruturados: Texto Solto em blog ou postagem de rede social.
+
