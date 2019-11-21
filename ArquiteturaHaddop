@@ -1,0 +1,16 @@
+
+-> Hadoop: 
+Framework para armazenamento e processamento de grande conjutos de dados. (Não é um banco de dados)
+
+->  Composta por dois tipos de máquinas, Master(NameNode) e Slave(DataNode).
+
+Modos de configuração: 
+
+* StandAlone: Todos os seviços Hadoop rodam em uma única máquina JVM, mesmo servidor. (Utilizado para testes).
+
+* Pseudo Distribuído: Um serviço para cada JVM no mesmo servidor
+
+* Distribuído: Um serviço em cada JVM em cada máquina. 
+
+
+--> O HDFS permite que os dados sejam armazenados em arquivos. Um arquivo é dividido em um ou mais blocos que são armazenados e replicados pelos DataNodes. Os blocos de dados são então distribuídos para o sistema de DataNodes dentro do cluster. Isso garante que as réplicas de dados sejam mantidas.
