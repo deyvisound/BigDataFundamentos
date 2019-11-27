@@ -1,0 +1,31 @@
+
+-> Ecosistema Hadoop 
+
+- Existem outros sofwatres que trabalham juntos com o hadoop. 
+
+* Zoopeaker: Serviço de coordenação de hosts. Abstrai a distribuição das tasks, fazendo com que o desenvolvedor não precise se preocupar com a mesma. 
+
+* Oozie: Responsável pelo processamento de jobs.
+
+* Hive: Data warehouse. Sistema de armazenamento de dados no hadoop, falicita a agregaçao para geração de relatórios e análise de dados. Orientado a batch.
+Hive Query Language - HQL
+
+* Sqoop: Responsável por importar e exportar dados de bancos relacionais. (sqoop - SQL to Hadoop)
+Migrador...
+
+* PIG: Responvsável por analisar grandes conjuntos de dados que representam fluxo de dados. 
+Utiliza linguagem de alto nível.
+(Linguagem de script para interagir com o HDFS)
+
+* HBASE: Banco de dados não relacional. 
+Orientado a coluna.
+ ** Arquitetura: Possui dois tipos de Nodes. 
+ -Master
+ -RegionServer
+
+* Flume: Serviço que envia dados diretamente para o HDFS.
+
+* Mahout: Lib open source de algorítimos de aprendzagem de máquina. Dedicado ao machine learning.
+
+* Kafta: Analisa dados em tempo real, sem a necessidade de armazena-los. 
+

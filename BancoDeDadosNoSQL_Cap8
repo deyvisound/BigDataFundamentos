@@ -1,0 +1,48 @@
+
+Bancos de Dados tradicionais foram projetados somente para tratar conjuntos de dados que possam ser armazenados em linhas e colunas e portanto, possam ser consultados através do uso de queries utilizando linguagem SQL (Structured Query Language). 
+
+Bancos de Dados relacionais não possuem funcionalidades necessárias para atender os requisitos do Big Data, dados gerados em grande volume e alta velocidade. 
+
+
+Bancos de Dados NoSQL, são bancos de dados distribuídos e não-relacionais, que foram projetados para atender os requerimentos de Big Data.
+
+Bancos de Dados NoSQL oferecem uma arquitetura mais escalável e eficiente que os bancos relacionais.
+
+Bancos de Dados NoSQL facilitam consultas no-sql de dados semi-estruturados ou não-estruturados. 
+
+Representação de dados sem schema. 
+
+
+Categorias de bancos de dados: 
+
+Graph: 
+Rede social online
+Dados altamente interligados
+
+Document:
+Armazena documentos(orientado a documentos) - mongoDB
+
+Key-Value: 
+Armazenados em formado chave-valor
+
+Column Family Store: Orientado a colunas. 
+
+
+
+MangoDB: 
+Orientado a documento
+Substitui conceito de linha, pelo modelo documento 
+Open Source(c++)
+tipos de dados especiais:( time-to-live)
+
+
+Cassandra: 
+Escalável e Tolerância a falhas
+Desenvolvido inicialmente pelo facebook
+Projetado para trabalhar em clusters
+
+
+CouchDB: 
+um dos primeiros. 
+Totalmente voltado para web 
+Dados armazenados e arquivos jSON

@@ -1,0 +1,59 @@
+
+Apache Sparks:
+
+- Engine rápido e de uso geral para processamento de dados em larga escala. 
+
+- Mais veloz com o Hadoop MapReduce
+
+- Pode ser usado com Python, R, scala e Java. 
+
+
+Benefícios: 
+
+- Falicidade de Uso. API's de alto nível com Python, Java, Scala...
+
+- Velocidade, ciclos iterativos. 
+
+- Uso Geral: Diferentes tipos de computação, SQL, processamento de texto, processamento de gráficos com graphX
+
+
+Apache Sparks é um framework. 
+
+- Spark Core: Funcionalidades básicas
+- Spark SQL, tarefas com dados estruturados. 
+- Streaming: Processamento de dados de stream em tempo real(twitter). 
+- MLiab: Lib de machine learning do spark.
+-GraphX: Manipulação de gráficos
+
+
+Spark x Hadoop: 
+
+-Só spark trabalha com stream
+-Quando não temos tantos dados assim, spark é melhor. 
+- Ideal para trabalho iterativo(MachineLearning)
+
+
+Spark não substitui o Hadoop. 
+Spark trabalho com componentes do Hadoop, exemplo HDFS e YARN. 
+
+
+Apache Storm: 
+
+Trabalha com stream de dados. 
+Desenvolvido em java. 
+Gestão feita pelo Zookeeper 
+Open source
+
+
+Sobre o spark: 
+O projeto Spark contém diversos componentes integrados. Basicamente, Spark é um engine de computação, responsável por agendar, distribuir e monitorar aplicações de diversas tarefas de processamento através de diferentes servidores em cluster.
+
+O Spark processa dados em memória e o Hadoop somente em disco.
+
+O Hadoop utiliza Framework Mapreduce e o Spark computação genérica.
+
+O Hadoop realiza armazenamento distribuído e computação distribuída e o spark utiliza somente computação distribuída.
+
+O Hadoop não é ideal para trabalho iterativo enquanto o Spark é excelente para trabalhos iterativos.
+
+Spark SQL é um pacote para tarefas com dados estruturados. Ele permite realizar queries nos dados através de linguagem SQL, além de suportar diversas fontes de dados como Hive e JSON. 

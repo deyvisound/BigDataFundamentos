@@ -1,0 +1,31 @@
+
+- Soluções Comerciais com Hadoop.
+
+-> As principais soluções comerciais do Hadoop oferecem suporte, guias, assistência e melhores práticas 
+-> Sempre que o um bug é detectado, as soluções comerciais prontamente atualizam o software.
+->As soluções oferecem pacotes completos, com tudo que é necessário para uma infraestrutura de Big Data
+
+*Amazon Elastic MapReduce(EMR): 
+-Plataforma de análise de dados bem organizada e construída sobre a arquitetura HDFS. 
+-Escalável e Segura
+-Maior participação no mercado global. 
+-Paga pelo tempo de uso. 
+
+*Cloudera: 
+-Confiável. 
+-Utiliza produtos 100% open source. 
+-Sistema gerenciador amigável(Cloudera Manager) para gestão de dados. 
+
+*HortonWorks: 
+Suite de funcionalidades essenciais para implementação do hadoop. 
+
+*MapR: 
+Suporta mais de 20 projetos open source
+
+*Pivotal: 
+Pivotal HD é uma distribuição comercial do Hadoop. Ele consiste em um conjunto de ferramentas que visam acelerar projetos de análise de dados e expandir as funcionalidades do Hadoop.
+
+Microsoft Asure HDInsight: 
+Distribuição em clouds. 
+Dados estrturados e não estrutursados. 
+
